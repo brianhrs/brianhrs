@@ -81,7 +81,7 @@ My day-to-day work involves designing database structures, caching mechanisms, a
 ---
 
 ### ⚡ EV Charging Backend
-**Enterprise-grade backend system for EV charging operations**
+**Backend system for EV charging operations**
 
 - API-first architecture
 - Real-time communication & OCPP integration
